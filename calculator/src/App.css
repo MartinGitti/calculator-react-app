@@ -1,0 +1,70 @@
+/*Styling sheet:*/
+
+body {
+  background-image: url(./Images/background.jpg);
+  padding: 200px 100px 200px 100px;
+  text-align: center;
+}
+
+h1 {
+  color:grey;
+  font-family: monospace;
+  font-size: 70px;
+  font-weight: bold;
+  text-shadow: 2px 2px white;
+  
+}
+
+h2 {
+  color: white;
+  font-family: monospace;
+  font-size: 60px;
+  font-weight: bold;
+  opacity: 0.7;
+  text-decoration: underline dotted;
+  text-decoration-color: rgb(29, 155, 214);
+}
+
+.result {
+  height: 60px;
+  background-color: rgb(70, 71, 70);
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.result p {
+  color: rgb(248, 247, 248);
+  font-size: 40px;
+  margin: 5px;
+
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  background-color: #bbb;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+}
+
+.Orb {
+  height: 150px;
+  width: 150px;
+}
+
+.component-div {
+  background-color: rgb(18, 18, 19);
+  border: rgb(113, 114, 116) 10px solid;
+  border-radius: 10px;
+}
+
+
